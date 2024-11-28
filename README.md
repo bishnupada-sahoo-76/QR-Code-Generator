@@ -1,5 +1,5 @@
 # QR Code Generator
-A full functional Dice Game with two dice. Easy game for the whole family to play
+A fully functional QR Code Generator for any websites
   
 1. Use the inquirer npm package to get user input.
 2. Use the qr-image npm package to turn the user entered URL into a QR code image.
