@@ -7,6 +7,7 @@ A full functional Dice Game with two dice. Easy game for the whole family to pla
 
 # Technology Used
 - JavaScript
+- npm
   
 ---
 To run this code on terminal use this
