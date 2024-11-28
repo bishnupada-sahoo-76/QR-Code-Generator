@@ -9,7 +9,7 @@ A full functional Dice Game with two dice. Easy game for the whole family to pla
 - JavaScript
   
 ---
-To run this code on terminal use 
+To run this code on terminal use this
 - npm i
 - node index.js
 - Type in your URL: 
