@@ -12,6 +12,6 @@ A fully functional QR Code Generator for any websites
   
 ---
 To run this code on terminal use this
-- npm i
+- npm install
 - node index.js
 - Type in your URL: 
