@@ -1,5 +1,6 @@
 # QR Code Generator
 • A fully functional QR Code Generator allows you to create QR codes for any website instantly.
+Simply enter the URL, and the tool generates a scannable code for easy sharing.
 
 # Steps  
 - Use the inquirer npm package to get user input.
