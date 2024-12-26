@@ -11,7 +11,6 @@ Simply enter the URL, and the tool generates a scannable code for easy sharing.
 - JavaScript
 - npm  
 ---
-
 To run this code on terminal use this
 - npm install
 - nodemon index.js
